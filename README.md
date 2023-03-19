@@ -1,16 +1,15 @@
 # crypto_flutter
 
-A new Flutter project.
+Slicing Random UI/UX Mobile wtih Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter pub get
+- flutter run -d chrome ( if you run in chrome )
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## UI/UX Mobile Crypto Wallet App By
+- [NickelFox](https://www.figma.com/@nickelfox)
